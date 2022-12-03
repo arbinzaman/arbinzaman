@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java-Script, React Js, Node Js**
 
-- 👨‍💻 All of my projects are available at [arbinzaman.xyz](arbinzaman.xyz)
+- 👨‍💻 All of my projects are available at [Repo](https://github.com/arbinzaman?tab=repositories)
 
 - 📝 I regularly write articles on [arbinzaman.xyz](arbinzaman.xyz)
 
