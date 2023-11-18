@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Repo](https://github.com/arbinzaman?tab=repositories)
 
-- 📝 I regularly write articles on [www.arbin.live](www.arbin.live)
+- 📝 I regularly write articles on [arbin.live](https://arbin.live/)
 
 - 💬 Ask me about **react js & node js**
 
