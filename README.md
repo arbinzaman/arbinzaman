@@ -1,7 +1,7 @@
 ![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)
 
 <h1 align="center">Hi 👋, I'm Arbin Zaman</h1>
-<h3 align="center">A passionate MERN STACK developer from Bangladesh</h3>
+<h3 align="center">A passionate FULL STACK developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 <p align="left"> <a href="https://twitter.com/arbinzaman" target="blank"><img src="https://img.shields.io/twitter/follow/arbinzaman?logo=twitter&style=for-the-badge" alt="arbinzaman" /></a> </p>
