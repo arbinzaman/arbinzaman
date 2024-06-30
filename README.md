@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **arbinzmn@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JmtJ25uktxCG2kqrIz5lOTx_ayV3BH9S/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d02l2hTf0gchCYCSqsiy1DRX7f_gmN_U/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
