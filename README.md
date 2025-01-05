@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Repo](https://github.com/arbinzaman?tab=repositories)
 
-- 📝 My Protfolio [arbin.live](arbin.live)
+- 📝 My Portfolio [arbin.me](https://arbin.me)
 
 - 💬 Ask me about **react js & node js**
 
